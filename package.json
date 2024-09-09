@@ -7,6 +7,7 @@
     ]
   },
   "devDependencies": {
+    "@redwoodjs/auth-firebase-setup": "8.0.0",
     "@redwoodjs/core": "8.0.0",
     "@redwoodjs/project-config": "8.0.0"
   },
